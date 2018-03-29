@@ -1,4 +1,4 @@
-# Task 3 - DocumentsDB
+# DocumentsDB
 
-# Description
+Description:
 Simple database that has only one table Document that stores personal passport details and retrives it using 'view'
